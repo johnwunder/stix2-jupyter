@@ -7,7 +7,7 @@ pytz==2018.4
 requests==2.18.4
 simplejson==3.15.0
 six==1.11.0
-stix2==1.0.2
+git+git://github.com/treyka/cti-python-stix2.git@5cbe886cdba92521ede78157bf2bc0ebb58a7d24#egg=stix2
 stix2-patterns==0.6.0
 taxii2-client==0.3.1
 urllib3==1.22
